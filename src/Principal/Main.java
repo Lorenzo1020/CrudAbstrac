@@ -18,6 +18,7 @@ public class Main {
 		String equipoComp;
 		String tecgDesar;
 
+		//Intancia de clase
 		LicInformatica informatica = null;
 
 		Scanner lectura = null;
