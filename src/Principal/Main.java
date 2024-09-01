@@ -18,7 +18,7 @@ public class Main {
 		String equipoComp;
 		String tecgDesar;
 
-		//Intancia de clase
+		//Intancia de clase ----------------------creando rama para subur cambios a esa rama
 		LicInformatica informatica = null;
 
 		Scanner lectura = null;
